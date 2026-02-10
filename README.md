@@ -40,7 +40,7 @@ Follow these steps to get started with UrjaSolar:
 
 1.  **Clone the repository**:
 ``` bash
-git clone https://github.com/saurowankhade/Solar-Magement-/
+git clone https://github.com/deeprathod/Solar-Magement-/
 ```
 
 2.  **Install dependencies**:
